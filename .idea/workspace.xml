@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87bbc173-ea57-4dff-801d-043da7a16033" name="Default Changelist" comment="" />
+    <list default="true" id="87bbc173-ea57-4dff-801d-043da7a16033" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/scraper.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Zg5QRg3nhpkCTNxt42gN448Y1g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +30,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
   </component>
-  <component name="RunManager" selected="Python.scraper">
+  <component name="RunManager" selected="Python.scratch_4">
     <configuration name="scraper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="WohnungsScraper" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,8 +99,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.scraper" />
         <item itemvalue="Python.scratch_4" />
+        <item itemvalue="Python.scraper" />
         <item itemvalue="Python.scratch_3" />
       </list>
     </recent_temporary>
@@ -110,57 +119,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1827" height="275" key="GridCell.Tab.0.bottom" timestamp="1585496898161">
+    <state width="1827" height="275" key="GridCell.Tab.0.bottom" timestamp="1585518424971">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="275" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585496898161" />
-    <state width="1827" height="275" key="GridCell.Tab.0.center" timestamp="1585496898161">
+    <state width="1827" height="275" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585518424971" />
+    <state width="1827" height="275" key="GridCell.Tab.0.center" timestamp="1585518424971">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="275" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585496898160" />
-    <state width="1827" height="275" key="GridCell.Tab.0.left" timestamp="1585496898160">
+    <state width="1827" height="275" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585518424971" />
+    <state width="1827" height="275" key="GridCell.Tab.0.left" timestamp="1585518424970">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="275" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585496898160" />
-    <state width="1827" height="275" key="GridCell.Tab.0.right" timestamp="1585496898161">
+    <state width="1827" height="275" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585518424970" />
+    <state width="1827" height="275" key="GridCell.Tab.0.right" timestamp="1585518424971">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="275" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585496898161" />
-    <state width="1827" height="340" key="GridCell.Tab.1.bottom" timestamp="1585496722874">
+    <state width="1827" height="275" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585518424971" />
+    <state width="1827" height="340" key="GridCell.Tab.1.bottom" timestamp="1585505766109">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="340" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585496722874" />
-    <state width="1827" height="340" key="GridCell.Tab.1.center" timestamp="1585496722873">
+    <state width="1827" height="340" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1585505766109" />
+    <state width="1827" height="340" key="GridCell.Tab.1.center" timestamp="1585505766108">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="340" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585496722873" />
-    <state width="1827" height="340" key="GridCell.Tab.1.left" timestamp="1585496722873">
+    <state width="1827" height="340" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1585505766108" />
+    <state width="1827" height="340" key="GridCell.Tab.1.left" timestamp="1585505766108">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="340" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585496722873" />
-    <state width="1827" height="340" key="GridCell.Tab.1.right" timestamp="1585496722874">
+    <state width="1827" height="340" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1585505766108" />
+    <state width="1827" height="340" key="GridCell.Tab.1.right" timestamp="1585505766108">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="340" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585496722874" />
-    <state x="651" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1585482549705">
+    <state width="1827" height="340" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1585505766108" />
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1585565923614">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="651" y="381" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1585482549705" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/scraper.py</url>
-          <line>90</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/scraper.py</url>
-          <line>61</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1585565923614" />
   </component>
 </project>
